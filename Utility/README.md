@@ -1,6 +1,6 @@
 # Utility
 
-![1](/Utility.jpg)
+![1](/Image/Utility.jpg)
 
 Componenti per aiutare il montaggio e la foratura dei profilati.
 
