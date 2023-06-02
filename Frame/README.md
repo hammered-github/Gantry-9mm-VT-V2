@@ -4,11 +4,11 @@
 
 Frame in profilitati di alluminio, composto da profili 4040 e 4020.
 
-
 Frame made of aluminum profiled, consisting of 4040 and 4020 profiles.
 
-Profili/Profiles 40x20 470mm - 8pz 
-Profili/Profiles 40x40 600mm - 4pz
+BOM:
+- Profili/Profiles 40x20 470mm - 8pz
+- Profili/Profiles 40x40 600mm - 4pz
  
 ---
 
