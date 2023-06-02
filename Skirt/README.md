@@ -1,6 +1,6 @@
 # Skirt
 
-![1](/Image/Skirt.jpg)
+![1](Image/Skirt.jpg)
 
 ---
 
