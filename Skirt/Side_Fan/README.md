@@ -1,6 +1,6 @@
 # Side Fan
 
-![1](/Image/Side_Fan.jpg)
+![1](Image/Side_Fan.jpg)
 
 ---
 
