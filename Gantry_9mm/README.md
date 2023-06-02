@@ -1,6 +1,6 @@
 # Gantry for belt of 9mm 
 
-![1](/Image/Gantry.jpg)
+![1](Image/Gantry.jpg)
 
 ---
 
