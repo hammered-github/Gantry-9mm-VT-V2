@@ -1,10 +1,8 @@
 # Utility
 
-![1](/Image/Utility.jpg)
+![1](Image/Utility.jpg)
 
 Componenti per aiutare il montaggio e la foratura dei profilati.
-
----
 
 Components to aid assembly and drilling of profiles.
 
