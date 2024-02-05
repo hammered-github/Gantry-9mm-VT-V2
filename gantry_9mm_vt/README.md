@@ -1,7 +1,7 @@
 # Gantry per Voron Trident 
 
-![1](images/ass_gantry_9vt_drive.jpg)
-![1](images/ass_gantry_9vt_tirante.jpg)
+![1](/images/ass_gantry_9vt_drive.jpg)
+![1](/images/ass_gantry_9vt_tirante.jpg)
 
 #
 
