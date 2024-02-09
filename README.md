@@ -3,7 +3,7 @@
 Gantry ridisegnato per poter utilizzare la cinghia da 9mm al posto della 6mm.
 
 ![1](/images/ass_gantry_intro_9.jpg)
-#
+
 BOM
 ---
 | Part Description                         | Qty      | Note                                                                                                               |
