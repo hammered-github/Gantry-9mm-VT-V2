@@ -1,11 +1,10 @@
 # Gantry 9mm VT & V2 β
-
 Gantry ridisegnato per poter utilizzare la cinghia da 9mm al posto della 6mm.
 
 ![1](/images/ass_gantry_intro_9.jpg)
 
 BOM
----
+
 | Part Description                         | Qty      | Note                                                                                                               |
 |----------------------------------------- |--------- |------------------------------------------------------------------------------------------------------------------- |
 | stepper nema 17                          | 2        | opzione usare stepperanno con stelo più lungo                                                                      |
