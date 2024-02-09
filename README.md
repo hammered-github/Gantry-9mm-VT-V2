@@ -17,7 +17,6 @@ BOM
 | vite testa esagonale M3                  | ++       | .............................                                                                                      |
 | vite testa esagonale M3                  | ++       | .............................                                                                                      |
 | vite testa esagonale M4                  | ++       | .............................                                                                                      |
-
 #
 [supportare i miei progetti - support my projects](https://www.paypal.com/donate/?business=WEP7ZAT7WRN88&no_recurring=0&currency_code=EUR)  
 
