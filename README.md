@@ -5,17 +5,18 @@ Gantry ridisegnato per poter utilizzare la cinghia da 9mm al posto della 6mm.
 
 BOM
 ---
-| Part Description                         | Qty      | Note                                                                                                               |
-|----------------------------------------- |--------- |------------------------------------------------------------------------------------------------------------------- |
-| stepper nema 17                          | 2        | opzione usare stepperanno con stelo più lungo                                                                      |
-| 695RS cuscinetto                         | ++       | ID 5mm x OD 13mm x 4mm                                                                                             |
-| distanziatori in alluminio               | ++       | M3 x 28mm                                                                                                          |
-| boccola in alluminio senza filettatura   | ++       | M5, OD 8mm, lunghezza 12mm                                                                                         |  
-| rasamento in acciaio inox                | ++       | spessore 0.5mm, ID 5mm x OD 8mm                                                                                    |
-| rasamento in acciaio inox                | ++       | spessore 1mm, ID 5mm x OD 8mm                                                                                      |
-| vite testa esagonale M3                  | ++       | .............................                                                                                      |
-| vite testa esagonale M3                  | ++       | .............................                                                                                      |
-| vite testa esagonale M4                  | ++       | .............................                                                                                      |
+| Part Description                                   | Qty  | Note                                                          |
+|--------------------------------------------------- |----- |-------------------------------------------------------------- | 
+| stepper nema 17                                    | 2    | opzione usare stepperanno con stelo più lungo                 | 
+| puleggia 2GT                                       | 2    | 20 denti, foro 5mm per cinghia 9/10mm                         |
+| 695RS cuscinetto                                   | ++   | ID 5mm x OD 13mm x 4mm                                        |
+| distanziatori in alluminio                         | ++   | M3 x 28mm                                                     |
+| boccola in alluminio senza filettatura             | ++   | M5, OD 8mm, lunghezza 12mm                                    |  
+| rasamento in acciaio inox                          | ++   | spessore 0.5mm, ID 5mm x OD 8mm                               |
+| rasamento in acciaio inox                          | ++   | spessore 1mm, ID 5mm x OD 8mm                                 |
+| vite testa esagonale M3                            | ++   | .............................                                 |
+| vite testa esagonale M3                            | ++   | .............................                                 |
+| vite testa esagonale M4                            | ++   | .............................                                 |
 
 
 
