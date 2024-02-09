@@ -19,6 +19,7 @@ BOM
 | vite testa esagonale M3                            | ++   | .............................                                 |
 | vite testa esagonale M3                            | ++   | .............................                                 |
 | vite testa esagonale M4                            | ++   | .............................                                 |
+| PG7 pressacavo                                     | 1   | passacavo anti-piegatura connettore impermeabile              |
 
 #
 ![1](/images/gruppo_cuscinetti.jpg)
