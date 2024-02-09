@@ -7,9 +7,11 @@ BOM
 ---
 | Part Description                                   | Qty  | Note                                                          |
 |--------------------------------------------------- |----- |-------------------------------------------------------------- | 
-| stepper nema 17                                    | 2    | opzione usare stepperanno con stelo più lungo                 | 
-| puleggia 2GT                                       | 2    | 20 denti, foro 5mm per cinghia 9/10mm                         |
+| stepper nema 17                                    | 2pz  | opzione usare stepperanno con stelo più lungo                 | 
+| puleggia 2GT 9mm                                   | 2pz  | 20 denti, foro 5mm per cinghia 9/10mm                         |
+| cinghia 2GT 9mm                                    | 5m   | cinghia 9mm                                                   |
 | 695RS cuscinetto                                   | ++   | ID 5mm x OD 13mm x 4mm                                        |
+| F695 2RSscinetto                                   | ++   | ID 5mm x OD 13mm x 4mm                                        |
 | distanziatori in alluminio                         | ++   | M3 x 28mm                                                     |
 | boccola in alluminio senza filettatura             | ++   | M5, OD 8mm, lunghezza 12mm                                    |  
 | rasamento in acciaio inox                          | ++   | spessore 0.5mm, ID 5mm x OD 8mm                               |
@@ -18,8 +20,7 @@ BOM
 | vite testa esagonale M3                            | ++   | .............................                                 |
 | vite testa esagonale M4                            | ++   | .............................                                 |
 
-
-
+#
 ![1](/images/gruppo_cuscinetti.jpg)
 
 
