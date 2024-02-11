@@ -4,8 +4,7 @@
 ![1](/images/ass_gantry_9vt_tirante.jpg)
 
 #
-
-supportare i miei progetti - support my projects - [donate](https://www.paypal.com/donate/?business=WEP7ZAT7WRN88&no_recurring=0&currency_code=EUR)  
+[supportare i miei progetti - support my projects](https://www.paypal.com/donate/?business=WEP7ZAT7WRN88&no_recurring=0&currency_code=EUR)  
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
