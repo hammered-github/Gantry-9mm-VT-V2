@@ -7,19 +7,19 @@ BOM
 ---
 | Part Description                                   | Qty  | Note                                                          |
 |--------------------------------------------------- |----- |-------------------------------------------------------------- | 
-| stepper nema 17                                    | 2pz  | opzione usare stepperanno con stelo più lungo                 | 
+| stepper nema 17                                    | 2pz  | usare stepper con stelo più lungo                             | 
 | puleggia 2GT 9mm                                   | 2pz  | 20 denti, foro 5mm per cinghia 9/10mm                         |
 | cinghia 2GT 9mm                                    | 5m   | cinghia 9mm                                                   |
-| 695RS cuscinetto                                   | ++   | ID 5mm x OD 13mm x 4mm                                        |
-| F695 2RSscinetto                                   | ++   | ID 5mm x OD 13mm x 4mm                                        |
-| distanziatori in alluminio                         | ++   | M3 x 28mm                                                     |
-| boccola in alluminio senza filettatura             | ++   | M5, OD 8mm, lunghezza 12mm                                    |  
-| rasamento in acciaio inox                          | ++   | spessore 0.5mm, ID 5mm x OD 8mm                               |
-| rasamento in acciaio inox                          | ++   | spessore 1mm, ID 5mm x OD 8mm                                 |
-| vite testa esagonale M3                            | ++   | .............................                                 |
+| 695RS cuscinetto                                   | 12   | ID 5mm x OD 13mm x 4mm                                        |
+| F695 2RSscinetto                                   | 24   | ID 5mm x OD 13mm x 4mm                                        |
+| distanziatori in alluminio                         | 10   | M3 x 28mm                                                     |
+| boccola in alluminio senza filettatura             | 8    | M5, OD 8mm, lunghezza 12mm                                    |  
+| rasamento in acciaio inox                          | 20   | spessore 0.5mm, ID 5mm x OD 8mm                               |
+| rasamento in acciaio inox                          | 30   | spessore 1mm, ID 5mm x OD 8mm                                 |
+| vite testa esagonale M3                            | 20   | .............................                                 |
 | vite testa esagonale M3                            | ++   | .............................                                 |
 | vite testa esagonale M4                            | ++   | .............................                                 |
-| PG7 pressacavo                                     | 1   | passacavo anti-piegatura connettore impermeabile              |
+| PG7 pressacavo                                     | 1    | passacavo anti-piegatura connettore impermeabile              |
 
 #
 ![1](/images/gruppo_cuscinetti.jpg)
